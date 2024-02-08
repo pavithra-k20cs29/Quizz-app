@@ -34,7 +34,7 @@ export const UserdetailForAdmin = (props) => {
                     <div class="flex flex-col w-10 h-10 justify-center items-center mr-4">
                       <a href="#" class="block relative">
                         <img
-                          alt="profil"
+                          alt="profile"
                           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8czzbrLzXJ9R_uhKyMiwj1iGxKhJtH7pwlQ&usqp=CAU"
                           class="mx-auto object-cover rounded-full h-10 w-10"
                         />
